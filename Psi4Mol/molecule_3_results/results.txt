@@ -1,0 +1,2 @@
+Energy: -38.78870872298199
+Wavefunction: <psi4.core.RHF object at 0x16a799370>
